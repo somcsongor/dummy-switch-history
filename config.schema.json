@@ -1,5 +1,5 @@
 {
-    "pluginAlias": "DummySwitch",
+    "pluginAlias": "DummySwitchHistory",
     "pluginType": "accessory",
     "singular": false,
     "schema": {
